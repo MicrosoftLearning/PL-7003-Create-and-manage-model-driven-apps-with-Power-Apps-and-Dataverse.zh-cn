@@ -247,13 +247,13 @@ Contoso Real Estate 希望跟踪两个关键元素：
 
 1. 输入 `Property admin` 作为角色名称。****
 
-1. 选择**自定义实体**选项卡。
+1. 向下滚动到“**自定义表**”部分。
 
-1. 选择“Real Estate Property”表 4 次，以将所有权限的访问级别更改为“组织”。********
+1. 选择“**Real Estate Property**”表。 将所有权限的访问级别更改为“**组织**”。
 
     ![安全角色中的 Real Estate Propery 权限。](../media/security-role.png)
 
-1. 选择“Showing”表 4 次，以将所有权限的访问级别更改为“组织”。********
+1. 选择“**Showing**”表。 将所有权限的访问级别更改为“**组织**”。
 
 1. 选择**保存并关闭**。
 

@@ -89,7 +89,7 @@ lab:
 
 1. 选择**解决方案**。
 
-1. 选择上一篇练习中所述的“Contoso Real Estate”解决方案****。
+1. 选择上一练习中的**物业清单**解决方案。
 
     ![物业清单解决方案对象。](../media/solution-objects.png)
 

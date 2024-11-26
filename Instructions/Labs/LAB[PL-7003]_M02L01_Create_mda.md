@@ -27,7 +27,7 @@ Contoso Real Estate 希望跟踪两个关键元素：
   
 ## 先决条件
 
-- 必须已完成**实验室 2：数据模型**
+- 必须已完成“**实验室 2：数据模型**
 
 
 ## 详细步骤
@@ -40,7 +40,7 @@ Contoso Real Estate 希望跟踪两个关键元素：
 
 1. 导航到 Power Apps 制作者门户 (`https://make.powerapps.com`)
 
-1. 确保你位于“Dev One”环境中。****
+1. 确保你位于 **Dev One** 环境中。
 
 1. 选择**解决方案**。
 
@@ -64,8 +64,6 @@ Contoso Real Estate 希望跟踪两个关键元素：
     ![将页面添加到模型驱动的应用对话框的屏幕截图](../media/mda-new-page.png)
 
 1. 选择“Dataverse 表”****。
-
-1. 选择**下一步**。
 
 1. 在“搜索”中输入 `cre`****。
 

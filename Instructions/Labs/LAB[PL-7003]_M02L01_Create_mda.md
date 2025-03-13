@@ -83,6 +83,7 @@ Contoso Real Estate 希望跟踪两个关键元素：
 
 1. 选择**发布**。
 
+    ![发布图标的屏幕截图。](../media/mda-publish-btn.png)
 
 ### 任务 1.3 – 测试
 

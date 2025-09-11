@@ -43,7 +43,7 @@ lab:
 
     ![在 Power Apps 制作者门户中选择“开发”环境。](../media/select-dev-one-environment.png)
 
-1. 从左侧导航窗格中选择“应用”，然后选择“全部”********。 应该会看到列出来几个应用，包括 Dataverse Accelerator App、解决方案健康状况中心和 Power Pages Management。
+1. 从左侧导航窗格中选择“应用”，然后选择“全部”********。 你会看到列出了多个应用，包括 Power Pages Management、解决方案健康状况中心和 Power Platform 环境设置。
 
 1. 从左侧导航窗格中选择“表”****。 你应会看到“Common Data Model”中的标准表，包括“帐户”和“联系人”**。
 
